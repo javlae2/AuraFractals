@@ -1,0 +1,6 @@
+{
+  "name": "AuraFractal",
+  "description": "An immersive, music-reactive fractal visualizer with infinite zoom and real-time audio analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
